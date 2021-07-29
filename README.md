@@ -1,2 +1,3 @@
-# Desenvolvendo uma aplicação com o micro framework Flask.
+# Desenvolvendo uma API.
 
+### Usando as tecnologias Flask e REST API.
